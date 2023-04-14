@@ -26,6 +26,25 @@
         <maven.repository.url>${maven.repository.protocol}://repository.jboss.org/nexus/content/groups/public/</maven.repository.url>
     </properties>
 
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+                <excludes>
+                    <exclude>**/*.ftl</exclude>
+                </excludes>
+            </resource>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>false</filtering>
+                <includes>
+                    <include>**/*.ftl</include>
+                </includes>
+            </resource>
+        </resources>
+    </build>
+
     <repositories>
         <repository>
             <releases>
@@ -65,13 +84,21 @@
             <version>2.0.1</version>
         </dependency>
 
+        <!-- Import the JBoss Logging, 3.5.0.Final -->
+        <dependency>
+            <groupId>org.jboss.logging</groupId>
+            <artifactId>jboss-logging</artifactId>
+            <version>3.5.0.Final</version>
+        </dependency>
+
         <!-- Import the Freemarker Templating, 2.3.26.jbossorg-1 -->
         <dependency>
             <groupId>org.freemarker</groupId>
             <artifactId>freemarker</artifactId>
             <version>2.3.26.jbossorg-1</version>
         </dependency>
-
     </dependencies>
+
+
 
 </project>
