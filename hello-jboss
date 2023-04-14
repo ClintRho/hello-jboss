@@ -1,0 +1,62 @@
+[33mcommit 34e57c420527d979b386e137f916cc6c6e3d477b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b56fd39 805e372
+Author: Dupok <74425411+Dupok@users.noreply.github.com>
+Date:   Wed Apr 12 18:43:52 2023 +1200
+
+    Merge pull request #4 from ClintRho/jboss-stuff
+    
+    Added the JBoss Hello guts
+
+[33mcommit 805e3729238023fe0749b813a996381eaa3a14fc[m[33m ([m[1;31morigin/jboss-stuff[m[33m)[m
+Author: Clint Rhoden <clint.rhoden@fingo.co.nz>
+Date:   Wed Apr 12 16:53:42 2023 +1200
+
+    Added the JBoss Hello guts
+
+[33mcommit b56fd39d6dbd4f8b81d8116c74f8392e0a85c343[m
+Merge: 0e19f6b 654fec5
+Author: Dupok <74425411+Dupok@users.noreply.github.com>
+Date:   Wed Apr 12 11:43:58 2023 +1200
+
+    Merge pull request #3 from ClintRho/master
+    
+    New text file
+
+[33mcommit 654fec5b8abe93649ddf28de4aeb43efe0abde4c[m
+Author: Clint Rhoden <clint.rhoden@fingo.co.nz>
+Date:   Wed Apr 12 10:30:18 2023 +1200
+
+    Three
+
+[33mcommit b4672a914557be0d00a7a4676faf1ac572144a5d[m
+Author: Clint Rhoden <clint.rhoden@fingo.co.nz>
+Date:   Wed Apr 12 10:28:36 2023 +1200
+
+    Second commit.
+
+[33mcommit 1b00eaf8d9f094a032041dd56eeb7d36190e7fb7[m
+Author: Clint Rhoden <clint.rhoden@fingo.co.nz>
+Date:   Wed Apr 12 09:57:17 2023 +1200
+
+    First commit of test.txt.
+
+[33mcommit 0e19f6b6315f39077c29739642f7fa2aa0189e51[m
+Merge: 1ee1656 6abbaaa
+Author: Dupok <74425411+Dupok@users.noreply.github.com>
+Date:   Tue Apr 11 18:37:52 2023 +1200
+
+    Merge pull request #2 from ClintRho/ClintRho-patch-1
+    
+    Create foo 2
+
+[33mcommit 6abbaaab35819a6d97091937d3b5a3027555d51f[m
+Author: ClintRho <130430275+ClintRho@users.noreply.github.com>
+Date:   Tue Apr 11 18:22:58 2023 +1200
+
+    Create foo
+
+[33mcommit 1ee165684005d925743a86902e7a79269ee24b74[m
+Author: Dupok <74425411+Dupok@users.noreply.github.com>
+Date:   Tue Apr 11 15:18:14 2023 +1200
+
+    Initial commit

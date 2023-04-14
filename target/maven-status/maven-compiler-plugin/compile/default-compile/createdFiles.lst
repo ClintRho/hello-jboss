@@ -1,2 +1,6 @@
+org\rhoden\hellojboss\freemarker\HelloService.class
 org\rhoden\hellojboss\HelloWorldServlet.class
+org\rhoden\hellojboss\freemarker\Person.class
+org\rhoden\hellojboss\freemarker\HelloServlet.class
+org\rhoden\hellojboss\freemarker\Todo.class
 org\rhoden\hellojboss\HelloService.class
